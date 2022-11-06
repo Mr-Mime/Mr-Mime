@@ -15,7 +15,8 @@
 ### :technologist: About me:
 I am an embedded developer currently working in the field of smart meters and energy measuring.
 * :hammer_and_wrench: I like to tinker and build fun projects with hardware in my freetime
-* :seedling: I love it to repair hardware and give it a second chance (or at least collect some parts for my drawer)
+* :seedling: I love to repair hardware and give it a second chance (or at least collect some parts for my drawer)
+* :open_book: I use a lot of opensource software and contribute to it where I can ([OpenStreetMap](https://www.openstreetmap.org/#map=7/51.330/10.453), [Organic Maps](https://organicmaps.app/))
 * :ping_pong: If afk I like playing (beach) volleyball or table tennis
 
 ---
