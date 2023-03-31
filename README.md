@@ -48,8 +48,10 @@ I am an embedded developer currently working in the field of smart meters and en
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Editors
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" />&nbsp;
+  <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" /></a>&nbsp;
+  <a href="https://github.com/atom/atom"><img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" /></a>&nbsp;
+  <a href="https://www.cursor.so/"><img src="https://www.cursor.so/logo.svg" title="Cursor" alt="Cursor" width="40" /></a>&nbsp;
+  <a href="https://vscodium.com/"><img src="https://user-images.githubusercontent.com/37423773/229238151-a00b61a7-c8e1-4e42-8c34-96d43583460b.png" title="VSCodium" alt="VSCodium" width="40" /></a>&nbsp;
   <span>Hopefully soon:<a href="https://zed.dev/"><img src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" title="Zed" alt="Zed" width="40" /></a></span>&nbsp;
 </div>
 
@@ -59,4 +61,3 @@ I am an embedded developer currently working in the field of smart meters and en
   <img src="https://user-images.githubusercontent.com/37423773/200093706-d532b19e-5c3f-486e-9068-82b6b7cfe2fa.svg" title="Thingsboard" alt="Thingsboard" width="150" />&nbsp;
   <img src="https://js.wiki/img/wikijs-full-2021.b840e376.svg" title="Wiki JS" alt="Wiki JS" height="30" />&nbsp;
 </div>
-
