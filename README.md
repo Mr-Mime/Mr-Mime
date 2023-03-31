@@ -11,6 +11,17 @@
 </div>
 
 ---
+### :computer: Current side project: [OSRT](https://github.com/Mr-Mime/osrt)
+
+<b>O</b>pen <b>S</b>port <b>R</b>esult <b>T</b>racker will allow you to track results of many matches from various sports.
+With the collected data it will create some interesting statistics.  
+Most important: all data stays on the device!  
+
+For development I use the [Ionic framework](https://ionicframework.com/) which allows me to easily build apps for android and ios.
+It integrates with angular, beside that it is a "normal" web project.
+So typescript, html and some css is what I am using here.
+
+---
 
 ### :technologist: About me:
 I am an embedded developer currently working in the field of smart meters and energy measuring.
